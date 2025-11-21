@@ -1,4 +1,4 @@
-# MeuPortf-lio
+# MeuPortfolio
 # Portfólio — João Vitor Nunes dos Santos
 
 Este é o meu portfólio pessoal, desenvolvido para apresentar meus primeiros projetos como **desenvolvedor Front-End**.  
