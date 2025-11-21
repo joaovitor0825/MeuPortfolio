@@ -15,7 +15,7 @@ Atualmente sou estudante do curso **Sistemas para Internet — SENAC**, e este s
 1. Baixe ou clone o projeto:
 github.com/joaovitor0825/MeuPortfolio
 
-2. Abra o arquivo `index.html` no navegador.
+2. Abra o arquivo `index.html` no navegador
 ## Projetos apresentados
 - Página de Login (HTML/CSS)  
 - Portfólio Minimalista (HTML/CSS)  
